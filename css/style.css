@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-    text-shadow: 4px, 4px, 2px, #808080 !important;
+    text-shadow: 4px 4px 2px #808080 !important;
     font-size: 32px !important;
 }
 
@@ -51,7 +51,7 @@ div {
 }
 
 #yellow h2 {
-    text-shadow: 4px, 4px, 2px, #c7e2c7;
+    text-shadow: 4px 4px 2px #c7e2c7;
     color: #000000;
 }
 
