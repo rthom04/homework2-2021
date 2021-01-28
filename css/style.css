@@ -12,6 +12,8 @@ h1 {
 }
 
 h2 {
+    position: relative;
+    z-index: 10;
     text-shadow: 4px 4px 2px #808080 !important;
     font-size: 32px !important;
 }
@@ -22,7 +24,7 @@ p {
 }
 
 img {
-    width: 440px;
+    width: 550px;
     display: block !important;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -30,7 +32,7 @@ img {
 }
 
 div {
-    height: 150px !important;
+    min-height: 150px !important;
     padding: 25px !important;
     /* fix this */
 }
